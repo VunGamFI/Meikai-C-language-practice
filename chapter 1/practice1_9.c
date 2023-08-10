@@ -11,4 +11,5 @@ int main(void){
     sum = input_1 + input_2 + input_3;
 
     printf("它们的和是%d。\n", sum);
+    return 0;
 }
