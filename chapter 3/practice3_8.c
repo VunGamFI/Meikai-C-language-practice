@@ -10,4 +10,5 @@ int main(void){
         printf("它们的差是%d。\n", n1 - n2);
     else
         printf("它们的差是%d。\n", n2 - n1);
+    return 0;
 }
