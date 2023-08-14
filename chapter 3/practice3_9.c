@@ -12,4 +12,5 @@ int main(void){
     min = (min < input_3) ? min : input_3;
 
     printf("最小值是%d\n", min);
+    return 0;
 }
