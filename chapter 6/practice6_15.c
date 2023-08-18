@@ -9,4 +9,5 @@ int main(void){
         put_count();
         printf("put_count：第%d次\n", count);
     }
+    return 0;
 }
